@@ -6,7 +6,7 @@
 
 1. Introduction
 2. Maximum Sum Subarray of Size K (easy) SIMILAR [LeetCode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)
-3. Smallest Subarray with a given sum (easy) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/7XMlMEQPnnQ)
+3. Smallest Subarray with a given sum (easy) [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/)
 4. Longest Substring with K Distinct Characters (medium) [Educative.io](https://www.educative.io/courses/grokking-the-coding-interview/YQQwQMWLx80)
 5. Fruits into Baskets (medium) [LeetCode](https://leetcode.com/problems/fruit-into-baskets/)
 6. No-repeat Substring (hard) [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
