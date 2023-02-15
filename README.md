@@ -5,7 +5,7 @@
 ### 1. Pattern: Sliding Window
 
 1. Introduction
-2. Maximum Sum Subarray of Size K (easy) SIMILAR [LeetCode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)
+2. Maximum Sum Subarray of Size K (easy) SIMILAR BUT NOT SLIDING[LeetCode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/)
 3. Smallest Subarray with a given sum (easy) [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/)
 4. Longest Substring with K Distinct Characters (medium) [LeetCode](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/))
 5. Fruits into Baskets (medium) [LeetCode](https://leetcode.com/problems/fruit-into-baskets/)
